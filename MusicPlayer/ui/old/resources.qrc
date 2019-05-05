@@ -1,0 +1,29 @@
+<!DOCTYPE RCC><RCC version="1.0">
+
+    <qresource>
+
+        <file>images/+.png</file>
+
+        <file>images/bofang.png</file>
+
+        <file>images/fangdajing.png</file>
+
+        <file>images/last.png</file>
+
+        <file>images/next.png</file>
+
+        <file>images/music.png</file>
+
+        <file>images/pi.png</file>
+
+        <file>images/laba.png</file>
+
+        <file>images/jindutiao.png</file>
+        <file>images/xin.png</file>
+        <file>images/hcy.jpg</file>
+        <file>images/pause.png</file>
+        <file>images/pkq.png</file>
+
+    </qresource>
+
+</RCC>
